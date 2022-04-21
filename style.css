@@ -5,7 +5,7 @@
 }
 
 .headline {
-  background-color: 0096ff;
+  background-color: #0096ff;
   text-align: center;
   height: 80vh;
 }
@@ -16,4 +16,3 @@
   min-height: 100vh;
   flex-direction: column;
 }
-
