@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 div {
   width: 95px;
   height: 22px;
@@ -62,6 +64,7 @@ div.rotate-30 {
   line-height: 24px;
   text-align: left;
 }
+
 .headline-bottom {
   color: #7f8cff;
   width: 327px;
@@ -86,7 +89,7 @@ div.rotate-30 {
 .container {
   display: flex;
   border: 1px solid goldenrod;
-  background-color: #ffffff;
+  background-color: #fff;
   height: 718px;
   width: 375px;
   flex-direction: column;
