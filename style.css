@@ -4,7 +4,6 @@
   height: 105px;
   left: 278px;
   top: 152.24px;
-  /*background-color: #6070ff;*/
 }
 
 #Ellipse-04 {
@@ -21,8 +20,6 @@
   height:20px;
   left: 17px;
   top: 162px;
-  /*background-color: #6070ff;
-  transform: rotate(-156deg);*/
 }
 
 #Ellipse-12 {
@@ -52,9 +49,6 @@
   font-size: 48px;
   line-height: 52px;
   text-align: left;
-/*background-image: url("images/Ellipse-03.png");
-  background-repeat: no-repeat;
-  background-position: right top;*/
 }
 
 .headline-body {
