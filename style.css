@@ -1,32 +1,36 @@
-div {
-  width: 95px;
-  height: 22px;
-  background-color: #ebebff;
-  border: 1px solid blue;
+#Ellipse-03 {
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  left: 278px;
+  top: 152.24px;
+  /*background-color: #6070ff;*/
 }
 
-div.rotate10 {
-  transform: rotate(10deg);
+#Ellipse-04 {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  left: 237px;
+  top: 657.0955810546875px;
 }
 
-div.rotate20 {
-  transform: rotate(20deg);
+#Ellipse-11 {
+  position: absolute;
+  width: 39px;
+  height:20px;
+  left: 17px;
+  top: 162px;
+  /*background-color: #6070ff;
+  transform: rotate(-156deg);*/
 }
 
-div.rotate30 {
-  transform: rotate(30deg);
-}
-
-div.rotate-10 {
-  transform: rotate(-10deg);
-}
-
-div.rotate-20 {
-  transform: rotate(-20deg);
-}
-
-div.rotate-30 {
-  transform: rotate(-30deg);
+#Ellipse-12 {
+  position: absolute;
+  width: 24.142261284323837px;
+  height: 12.071130642161918px;
+  left: 341.7578125px;
+  top: 546.6923828125px;
 }
 
 .toolbar {
@@ -48,6 +52,9 @@ div.rotate-30 {
   font-size: 48px;
   line-height: 52px;
   text-align: left;
+/*background-image: url("images/Ellipse-03.png");
+  background-repeat: no-repeat;
+  background-position: right top;*/
 }
 
 .headline-body {
