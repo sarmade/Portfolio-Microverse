@@ -34,7 +34,7 @@ div.rotate-30 {
   width: 327;
   margin-left: 24px;
   margin-right: 24px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 14px;
   line-height: 52px;
   text-align: left;
@@ -44,7 +44,7 @@ div.rotate-30 {
   width: 327;
   margin-left: 24px;
   margin-right: 24px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 48px;
   line-height: 52px;
   text-align: left;
@@ -54,7 +54,7 @@ div.rotate-30 {
   width: 327px;
   margin-left: 24px;
   margin-right: 24px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 18px;
   line-height: 24px;
   text-align: left;
@@ -66,7 +66,7 @@ div.rotate-30 {
   margin-left: 24px;
   margin-right: 24px;
   margin-top: 24px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 18px;
   line-height: 24px;
   text-align: left;
