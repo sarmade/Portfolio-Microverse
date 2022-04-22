@@ -24,6 +24,8 @@ div.rotate-20 {
 div.rotate-30 {
   transform: rotate(-30deg);
 }
+
+
 .toolbar {
   color: #6070FF;
   width: 327;
