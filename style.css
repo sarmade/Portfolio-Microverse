@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-
 div {
   width: 95px;
   height: 22px;
@@ -38,7 +36,6 @@ div.rotate-30 {
   margin-right: 24px;
   font-family: Poppins;
   font-size: 14px;
-  font-weight: 700 bold;
   line-height: 52px;
   text-align: left;
 }
@@ -49,7 +46,6 @@ div.rotate-30 {
   margin-right: 24px;
   font-family: Poppins;
   font-size: 48px;
-  font-weight: 700 bold;
   line-height: 52px;
   text-align: left;
 }
@@ -60,7 +56,6 @@ div.rotate-30 {
   margin-right: 24px;
   font-family: Poppins;
   font-size: 18px;
-  font-weight: 400 regular;
   line-height: 24px;
   text-align: left;
 }
@@ -73,7 +68,6 @@ div.rotate-30 {
   margin-top: 24px;
   font-family: Poppins;
   font-size: 18px;
-  font-weight: 500;
   line-height: 24px;
   text-align: left;
 }
