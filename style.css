@@ -29,7 +29,6 @@ div.rotate-30 {
   transform: rotate(-30deg);
 }
 
-
 .toolbar {
   color: #6070ff;
   width: 327;
@@ -39,7 +38,6 @@ div.rotate-30 {
   font-size: 14px;
   font-weight: 700 bold;
   line-height: 52px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -51,7 +49,6 @@ div.rotate-30 {
   font-size: 48px;
   font-weight: 700 bold;
   line-height: 52px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -63,7 +60,6 @@ div.rotate-30 {
   font-size: 18px;
   font-weight: 400 regular;
   line-height: 24px;
-  letter-spacing: 0em;
   text-align: left;
 }
 .headline-bottom {
@@ -76,7 +72,6 @@ div.rotate-30 {
   font-size: 18px;
   font-weight: 500;
   line-height: 24px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -86,7 +81,6 @@ div.rotate-30 {
   width: 105px;
   left: 323px;
   top: 152.23828125px;
-  border-radius: 0px;
 }
 
 .container {
