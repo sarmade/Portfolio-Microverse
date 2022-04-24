@@ -41,14 +41,16 @@ a:link {
 .headline-title {
   font-size: 38px;
   line-height: 52px;
-  /* width: 376px; */
   flex-grow: 2;
+
+  /* width: 376px; */
 }
 
 .headline-body {
   font-size: 18px;
   line-height: 24px;
   flex-grow: 2;
+
   /* border: 2px solid goldenrod; */
 }
 
@@ -58,18 +60,20 @@ a:link {
   align-items: flex-start;
   flex-flow: row wrap;
   width: 375px;
-
   font-size: 18px;
   line-height: 24px;
   color: #7f8cff;
   flex-grow: 1;
+
   /* border: 2px solid goldenrod; */
 }
 
 .headline-bottom {
   line-height: 24px;
   flex-grow: 1;
+
   /* flex-flow: row wrap; */
+
   /* border: 2px solid goldenrod; */
 }
 
@@ -86,6 +90,7 @@ a:link {
   width: 375px;
   margin-left: 24px;
   margin-right: 24px;
+
   /* border: 2px solid goldenrod; */
 
   /* flex-direction: row; */
@@ -110,7 +115,6 @@ a:link {
 }
 
 .menu {
-
 }
 
 .line {
