@@ -60,6 +60,7 @@ a:link {
   justify-content: space-between;
   flex-direction: row;
   align-items: flex-start;
+
   /* flex-flow: row wrap; */
   font-size: 18px;
   line-height: 24px;
@@ -69,11 +70,13 @@ a:link {
 .container {
   display: flex;
   justify-content: space-between;
+
   /* flex-direction: row; */
   align-items: flex-start;
   flex-flow: row wrap;
   font-family: 'Poppins', sans-serif, bold;
   text-align: left;
+
   /* border: 2px solid goldenrod; */
   background-color: #fff;
   position: absolute;
@@ -86,6 +89,7 @@ a:link {
 .navbar {
   display: flex;
   justify-content: space-between;
+
   /* flex-direction: row; */
   align-items: flex-start;
   flex-flow: row wrap;
