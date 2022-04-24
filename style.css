@@ -39,61 +39,66 @@ a:link {
 }
 
 .headline-title {
-  font-size: 42px;
+  font-size: 38px;
   line-height: 52px;
-  width: 376px;
+  /* width: 376px; */
+  flex-grow: 2;
 }
 
 .headline-body {
   font-size: 18px;
   line-height: 24px;
+  flex-grow: 2;
+  /* border: 2px solid goldenrod; */
 }
 
 .headline-connect {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-flow: row wrap;
+  width: 375px;
+
   font-size: 18px;
   line-height: 24px;
   color: #7f8cff;
+  flex-grow: 1;
+  /* border: 2px solid goldenrod; */
 }
 
 .headline-bottom {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  align-items: flex-start;
-
-  /* flex-flow: row wrap; */
-  font-size: 18px;
   line-height: 24px;
-  width: 200px;
+  flex-grow: 1;
+  /* flex-flow: row wrap; */
+  /* border: 2px solid goldenrod; */
 }
 
 .container {
   display: flex;
   justify-content: space-between;
-
-  /* flex-direction: row; */
   align-items: flex-start;
   flex-flow: row wrap;
   font-family: 'Poppins', sans-serif, bold;
   text-align: left;
-
-  /* border: 2px solid goldenrod; */
   background-color: #fff;
   position: absolute;
   height: 718px;
   width: 375px;
   margin-left: 24px;
   margin-right: 24px;
+  /* border: 2px solid goldenrod; */
+
+  /* flex-direction: row; */
 }
 
 .navbar {
   display: flex;
   justify-content: space-between;
-
-  /* flex-direction: row; */
   align-items: flex-start;
   flex-flow: row wrap;
   width: 375px;
+
+  /* flex-direction: row; */
 }
 
 .logo {
@@ -104,12 +109,8 @@ a:link {
   flex-basis: 80%;
 }
 
-.clean {
-  border: 2px solid goldenrod;
-}
-
 .menu {
-  /* flex-basis: 20%; */
+
 }
 
 .line {
