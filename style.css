@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
 
-a:link {
-  text-decoration: none;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -27,6 +23,9 @@ li a:hover {
   background-color: #6070ff;
 }
 
+a:link {
+  text-decoration: none;
+}
 
 .line-10 {
   display: flex;
@@ -69,7 +68,7 @@ li a:hover {
   font-size: 18px;
   line-height: 24px;
   color: #7f8cff;
-  flex-grow:1;
+  flex-grow: 1;
 
   /* border: 2px solid goldenrod; */
 }
@@ -94,7 +93,6 @@ li a:hover {
   position: absolute;
   height: 718px;
   width: 375px;
-
   border: 2px solid goldenrod;
 
   /* flex-direction: row; */
