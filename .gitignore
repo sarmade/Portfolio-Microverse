@@ -1,4 +1,5 @@
 #.gitigonre
 #.github
+.vs
 test.md
 node_modules

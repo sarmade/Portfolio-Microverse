@@ -1,14 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Project
+# Portfolio Project
 
-> Description the project.
-> 
-> This project set up a "Hello world" repository.
-> 
-> The goal here is to master all of the tools and best practices.
-> 
-> Those tools will bwe in all Microverse projects and most likely in a future job as well, so it is important to know them!
+The Portfolio is simple: there’s no extraneous information, only basic background information, contact information, and a project showcase.
+The Portfolio is: it use screenshots, mockups, live demos, and other visual tools to show the viewer what you’re capable of making.
+The Portfolio is all thorough: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about their work, projects, and history.
 
 ## Built With
 
